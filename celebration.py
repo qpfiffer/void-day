@@ -21,9 +21,8 @@ def main():
     dates_celebrated_by_who = defaultdict(set)
     who_chain = defaultdict(lambda: 0)
 
-    max_days_celebrated = 0
-
     found_first = False
+    most_recent_date = None
     for line in opened:
         date_str = line[:19]
         date_obj = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
@@ -34,17 +33,22 @@ def main():
             dates_celebrated_by_who[key].add(username)
             who_chain[username] += 1
 
-            if len(dates_celebrated_by_who[key]) == 1:
-                max_days_celebrated += 1
-
             if found_first is False:
                 found_first = {"when": key, "who": username}
+        most_recent_date = date_obj
     opened.close()
 
-    final = {"times_celebrated": max_days_celebrated,
+    delta = most_recent_date - datetime.strptime(found_first["when"], "%Y-%m-%d")
+    times_celebrated = len(dates_celebrated_by_who.keys())
+    final = {"times_celebrated": times_celebrated,
             "dates_celebrated": dates_celebrated_by_who,
+            "days_since_first_celebration": delta.days,
+            "celebration_score": "{}/{}".format(times_celebrated, delta.days),
             "celebrated_count": who_chain,
             "first_celebrated": found_first,
+            "who_had_most_celebrations": reduce(lambda accum, val: accum if accum[1] > val[1] else val, who_chain.iteritems(), ("x", -1)),
+            "when_had_most_celebrations": reduce(lambda accum, val: accum if len(accum[1]) > len(val[1]) else val, dates_celebrated_by_who.iteritems(), ("x", [])),
+            "longest_streak": "???"
             }
     print json.dumps(final, cls=SetEncoder)
 
