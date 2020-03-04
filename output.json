@@ -1,740 +1,78 @@
 {
+  "times_celebrated": 1176,
   "dates_celebrated": {
-    "2016-10-8": [
-      "Wally",
-      "Xyz",
-      "cblgh"
-    ],
-    "2016-10-9": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-2": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-3": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-1": [
-      "Wally",
+    "2015-10-2": [
       "cblgh",
-      "maxdeviant"
-    ],
-    "2016-10-6": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-7": [
-      "Wally",
-      "vaporstack",
-      "cblgh"
-    ],
-    "2016-10-4": [
-      "--",
-      "Wally",
-      "cblgh",
-      "faun"
-    ],
-    "2016-7-5": [
-      "--"
-    ],
-    "2016-4-14": [
-      "Ninamori",
-      "nijotzz"
-    ],
-    "2016-7-4": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-29": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-28": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-27": [
-      "Wally",
-      "--",
-      "cblgh"
-    ],
-    "2016-10-26": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-25": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-10-24": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-23": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-22": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-10-21": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-10-14": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-10-5": [
-      "--",
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-28": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-1-29": [
-      "Wally",
-      "Xamayon",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-1-26": [
-      "Wally",
-      "cblgh",
-      "Hamcha"
-    ],
-    "2016-1-27": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-1-24": [
-      "Wally",
-      "cblgh",
-      "Hamcha"
-    ],
-    "2016-1-25": [
-      "Wally",
-      "cblgh",
-      "nijotz",
-      "maxdeviant"
-    ],
-    "2016-1-22": [
-      "cblgh"
-    ],
-    "2016-1-23": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-1-20": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "Hamcha"
-    ],
-    "2016-1-21": [
-      "Wally",
-      "--",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-5-31": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-5-30": [
-      "cblgh",
-      "faun"
-    ],
-    "2016-11-30": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-11-13": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-11-12": [
-      "cblgh"
-    ],
-    "2016-9-30": [
-      "cblgh",
-      "Wally_"
-    ],
-    "2016-12-30": [
-      "Somnius",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-12-31": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-11": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-13": [
-      "cblgh",
-      "dx"
-    ],
-    "2016-3-15": [
-      "cblgh",
-      "dx"
-    ],
-    "2016-3-14": [
-      "cblgh",
-      "dx",
-      "nijotzz"
-    ],
-    "2016-3-17": [
-      "cblgh",
-      "dx"
-    ],
-    "2016-3-16": [
-      "cblgh",
-      "dx",
-      "nijotz"
-    ],
-    "2016-3-18": [
-      "Xamayon",
-      "cblgh",
-      "dx"
-    ],
-    "2016-7-19": [
       "Wally"
     ],
-    "2016-7-18": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-28": [
-      "Wally",
-      "Somnius"
-    ],
-    "2015-12-29": [
-      "Wally",
-      "Somnius"
-    ],
-    "2016-7-15": [
-      "dman",
-      "cblgh"
-    ],
-    "2015-12-27": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2015-12-24": [
-      "Wally",
+    "2015-10-4": [
+      "dx",
       "cblgh",
-      "maxdeviant"
-    ],
-    "2015-12-25": [
-      "Wally",
-      "--",
-      "Xamayon",
-      "cblgh",
-      "dx"
-    ],
-    "2015-12-22": [
-      "Wally",
-      "cblgh_",
-      "Somnius",
-      "cblgh"
-    ],
-    "2015-12-23": [
-      "Wally",
-      "Xamayon"
-    ],
-    "2015-12-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-21": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-6-29": [
-      "Wally",
-      "--",
-      "cblgh"
-    ],
-    "2016-6-28": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-3": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-21": [
       "Wally"
-    ],
-    "2016-6-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-16": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-1-15": [
-      "--",
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-1-14": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-12": [
-      "Wally",
-      "--",
-      "Xamayon"
-    ],
-    "2016-1-11": [
-      "cblgh"
-    ],
-    "2016-1-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-19": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-18": [
-      "Wally",
-      "Somnius"
-    ],
-    "2016-2-6": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "Hamcha"
-    ],
-    "2016-2-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-4": [
-      "Wally",
-      "Xamayon"
-    ],
-    "2016-2-5": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-2-2": [
-      "Wally",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-1-8": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-2-1": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-8-14": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-8-15": [
-      "Wally",
-      "Somnius",
-      "Xamayon",
-      "cblgh",
-      "faun"
-    ],
-    "2016-8-16": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-1-6": [
-      "Wally",
-      "+cblgh"
-    ],
-    "2016-8-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-8-11": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-9": [
-      "Wally",
-      "cblgh",
-      "dx"
-    ],
-    "2016-9-5": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-4": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-6": [
-      "cblgh"
     ],
     "2015-10-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-3": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-2": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-10-9": [
-      "Wally",
-      "cblgh"
+      "cblgh",
+      "Wally"
     ],
     "2015-10-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-9": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-10-19": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2015-10-18": [
-      "Wally",
       "cblgh",
-      "cman"
+      "Wally"
     ],
-    "2016-6-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-9": [
-      "Wally",
-      "--",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-6-2": [
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-6-3": [
-      "cblgh"
-    ],
-    "2015-10-13": [
-      "Wally",
-      "dx",
+    "2015-10-9": [
       "cblgh",
-      "nijotz"
+      "Wally"
+    ],
+    "2015-10-11": [
+      "cblgh",
+      "Wally"
     ],
     "2015-10-12": [
       "Wally"
     ],
-    "2016-6-6": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-4": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-6-5": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-1": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-3": [
-      "Wally",
+    "2015-10-13": [
+      "nijotz",
       "cblgh",
-      "faun",
-      "nijotz"
-    ],
-    "2016-5-2": [
       "Wally",
-      "cblgh",
-      "nijotz"
+      "dx"
     ],
-    "2016-5-5": [
+    "2015-10-14": [
+      "dx",
+      "cblgh",
+      "Wally"
+    ],
+    "2015-10-16": [
+      "dx",
+      "Wally",
+      "jmbto"
+    ],
+    "2015-10-17": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "cman"
+    ],
+    "2015-10-18": [
+      "cblgh",
+      "Wally",
+      "cman"
+    ],
+    "2015-10-19": [
+      "cblgh",
       "Wally",
       "Xamayon"
     ],
-    "2016-5-4": [
-      "Wally"
-    ],
-    "2016-5-7": [
-      "cblgh"
-    ],
-    "2016-5-6": [
-      "--",
-      "cblgh"
-    ],
-    "2016-5-9": [
+    "2015-10-20": [
+      "nijotz",
       "Wally",
+      "Somnius",
+      "cman",
       "cblgh",
       "dx"
     ],
-    "2016-5-8": [
-      "cblgh"
-    ],
-    "2016-4-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-11": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-12": [
-      "Wally",
-      "Adolph",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-4-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-26": [
-      "Wally"
-    ],
-    "2016-4-15": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-4-16": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-4-17": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-4-18": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-4-19": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-7-14": [
-      "Wally",
-      "Somnius"
-    ],
-    "2016-10-13": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "Preston__"
-    ],
-    "2016-10-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-11": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-16": [
-      "Preston_",
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-16": [
-      "cblgh"
-    ],
-    "2016-10-15": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-10-18": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-19": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-7-11": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-2-16": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-17": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-2-14": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-2-15": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-2-12": [
-      "cblgh"
-    ],
-    "2016-2-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-10": [
-      "Wally",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-2-11": [
-      "--",
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-7-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-18": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-19": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-28": [
-      "Wally",
-      "Xamayon"
-    ],
-    "2016-5-29": [
-      "cblgh"
-    ],
-    "2016-5-23": [
-      "Wally"
-    ],
-    "2016-5-20": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-5-21": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-26": [
-      "cblgh",
-      "faun"
-    ],
-    "2016-5-27": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-5-24": [
-      "--",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-5-25": [
-      "Wally",
-      "cblgh",
-      "faun"
-    ],
-    "2015-10-20": [
-      "Somnius",
-      "cman",
-      "nijotz",
-      "cblgh",
-      "dx",
-      "Wally"
-    ],
     "2015-10-21": [
+      "cblgh",
       "Wally",
-      "cman",
-      "cblgh"
+      "cman"
     ],
     "2015-10-22": [
       "Wally",
@@ -745,326 +83,734 @@
       "cman"
     ],
     "2015-10-24": [
-      "Wally",
+      "dx",
       "cblgh",
-      "dx"
+      "Wally"
     ],
     "2015-10-25": [
       "Wally"
     ],
-    "2016-12-12": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-12-13": [
-      "cblgh"
-    ],
-    "2016-12-18": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-19": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-4-25": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-27": [
-      "Wally",
-      "--",
-      "cblgh"
-    ],
-    "2016-4-26": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-4-21": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-22": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-29": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-28": [
-      "Wally",
+    "2015-10-26": [
       "nijotz",
-      "dx"
-    ],
-    "2016-3-31": [
+      "cblgh",
       "Wally",
-      "dx",
-      "nijotz"
+      "cman"
     ],
-    "2016-3-30": [
+    "2015-10-27": [
+      "cblgh",
       "Wally",
-      "dx"
+      "cman"
     ],
-    "2016-1-9": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-20": [
-      "--",
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-21": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-11": [
-      "Wally",
-      "Somnius",
-      "lykkin",
-      "nijotz"
-    ],
-    "2016-7-23": [
+    "2015-10-28": [
+      "<--",
       "Wally"
     ],
-    "2016-7-24": [
-      "Wally",
-      "cblgh"
+    "2015-10-29": [
+      "<--",
+      "AAAAAAAAAAAAA"
     ],
-    "2016-7-25": [
+    "2015-10-30": [
+      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-7-31": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-30": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-27": [
-      "Wally",
-      "Somnius",
+      "Xamayon",
       "cblgh",
-      "Hamcha"
-    ],
-    "2016-11-15": [
-      "cblgh"
-    ],
-    "2016-11-14": [
-      "cblgh"
-    ],
-    "2016-11-17": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-11-16": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-11-10": [
-      "cblgh"
+      "dx"
     ],
     "2015-10-31": [
       "cblgh"
     ],
-    "2015-10-30": [
+    "2015-11-1": [
+      "Wally"
+    ],
+    "2015-11-2": [
+      "nijotz",
+      "cblgh",
       "Wally",
+      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    ],
+    "2015-11-3": [
       "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "Xamayon",
+      "Wally",
+      "faun",
+      "maxdeviant",
       "cblgh",
       "dx"
     ],
-    "2016-11-19": [
+    "2015-11-4": [
+      "cblgh",
+      "Wally",
+      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    ],
+    "2015-11-5": [
+      "Wally",
+      "lykkin",
+      "maxdeviant",
+      "Xamayon",
       "cblgh"
     ],
-    "2016-11-18": [
+    "2015-11-6": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2015-11-7": [
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2015-11-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2015-11-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2015-11-11": [
+      "Wally",
+      "lykkin",
+      "jmbto",
+      "cblgh",
+      "dx"
+    ],
+    "2015-11-12": [
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-13": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2015-11-14": [
+      "jnerula",
+      "cblgh",
+      "dx",
+      "lykkin"
+    ],
+    "2015-11-15": [
+      "Wally",
+      "lykkin",
+      "jmbto",
+      "cblgh",
+      "dx"
+    ],
+    "2015-11-16": [
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-17": [
       "Somnius",
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-18": [
+      "Wally",
+      "lykkin",
+      "Somnius",
+      "cblgh",
+      "dx"
+    ],
+    "2015-11-19": [
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-20": [
+      "nijotz",
+      "lykkin",
+      "Somnius",
+      "Hamcha",
       "cblgh"
     ],
-    "2016-8-18": [
-      "cblgh"
+    "2015-11-21": [
+      "cblgh",
+      "lykkin"
     ],
     "2015-11-23": [
       "Wally",
-      "Xamayon",
-      "Somnius",
       "lykkin",
+      "Somnius",
+      "Xamayon",
       "dx"
     ],
-    "2015-11-21": [
-      "lykkin",
-      "cblgh"
-    ],
-    "2015-11-20": [
-      "Somnius",
-      "lykkin",
+    "2015-11-24": [
       "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-25": [
       "Hamcha",
-      "nijotz"
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-11-26": [
+      "cblgh",
+      "Wally",
+      "lykkin"
     ],
     "2015-11-27": [
       "Wally",
-      "Xamayon",
       "lykkin",
-      "cblgh",
-      "jmbto"
-    ],
-    "2015-11-26": [
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2015-11-25": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "Hamcha"
-    ],
-    "2015-11-24": [
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2016-6-23": [
-      "Wally",
-      "Preston_",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-6-22": [
-      "Wally",
-      "Somnius",
+      "jmbto",
       "Xamayon",
       "cblgh"
-    ],
-    "2015-11-29": [
-      "lykkin",
-      "Xamayon"
     ],
     "2015-11-28": [
       "cblgh"
     ],
-    "2016-6-27": [
+    "2015-11-29": [
+      "Xamayon",
+      "lykkin"
+    ],
+    "2015-11-30": [
+      "Wally",
+      "lykkin",
+      "Somnius",
       "--",
-      "Wally",
+      "maxdeviant",
+      "Xamayon",
       "cblgh"
     ],
-    "2016-6-25": [
-      "Wally",
-      "Somnius",
+    "2015-12-1": [
       "cblgh",
-      "nijotz"
-    ],
-    "2016-6-24": [
       "Wally",
-      "Somnius",
-      "cblgh"
+      "lykkin",
+      "jmbto"
     ],
-    "2016-1-5": [
-      "Wally",
-      "Somnius",
-      "Xamayon",
-      "+cblgh"
-    ],
-    "2016-1-4": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-1-7": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-8-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-1": [
-      "Wally",
-      "reblink",
-      "cblgh"
-    ],
-    "2016-4-6": [
-      "Wally",
+    "2015-12-2": [
+      "dx",
       "cblgh",
-      "nijotz"
-    ],
-    "2016-4-7": [
       "Wally",
+      "lykkin"
+    ],
+    "2015-12-3": [
+      "Wally",
+      "lykkin",
+      "jmbto",
       "Xamayon",
-      "cblgh"
-    ],
-    "2016-8-12": [
-      "Wally",
-      "Somnius",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-8-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-8": [
-      "Wally",
+      "Hamcha",
       "cblgh",
-      "nijotz"
+      "dx",
+      "Preston"
     ],
-    "2016-4-9": [
+    "2015-12-4": [
       "Wally",
-      "cblgh"
-    ],
-    "2016-7-10": [
-      "cblgh"
-    ],
-    "2016-10-30": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-10-31": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-10-2": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-1": [
-      "cblgh"
-    ],
-    "2016-3-28": [
+      "lykkin",
+      "jmbto",
+      "cblgh",
       "dx"
     ],
-    "2016-3-29": [
+    "2015-12-5": [
+      "cblgh",
+      "Wally",
+      "lykkin",
+      " *"
+    ],
+    "2015-12-6": [
+      "cblgh",
+      "Wally",
+      "lykkin",
+      "jmbto"
+    ],
+    "2015-12-7": [
+      "cblgh",
       "Wally"
     ],
-    "2016-3-24": [
+    "2015-12-8": [
+      "Wally",
+      "lykkin",
+      "jmbto",
+      "maxdeviant",
+      "Xamayon",
       "cblgh",
       "dx"
     ],
-    "2016-3-25": [
-      "makoFaun"
-    ],
-    "2016-3-26": [
-      "Xamayon",
-      "maxdeviant",
-      "dx"
-    ],
-    "2016-3-27": [
+    "2015-12-9": [
       "Wally",
+      "lykkin",
+      "jmbto",
+      "Somnius",
+      "rtrvrtg",
+      "cblgh",
       "dx"
+    ],
+    "2015-12-10": [
+      "Somnius",
+      "Wally",
+      "lykkin",
+      "jmbto"
+    ],
+    "2015-12-11": [
+      "Somnius",
+      "nijotz",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-12-12": [
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-12-13": [
+      "maxdeviant",
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-12-14": [
+      "Wally",
+      "lykkin",
+      "Xamayon"
+    ],
+    "2015-12-15": [
+      "nijotz",
+      "Wally",
+      "lykkin",
+      "Somnius",
+      "cblgh"
+    ],
+    "2015-12-16": [
+      "nijotz",
+      "Wally",
+      "lykkin",
+      "faun",
+      "maxdeviant",
+      "cblgh"
+    ],
+    "2015-12-17": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "lykkin"
+    ],
+    "2015-12-18": [
+      "Wally"
+    ],
+    "2015-12-19": [
+      "cblgh",
+      "Wally",
+      "faun"
+    ],
+    "2015-12-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2015-12-21": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2015-12-22": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "cblgh_"
+    ],
+    "2015-12-23": [
+      "Wally",
+      "Xamayon"
+    ],
+    "2015-12-24": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2015-12-25": [
+      "Wally",
+      "--",
+      "Xamayon",
+      "cblgh",
+      "dx"
+    ],
+    "2015-12-26": [
+      "Wally"
+    ],
+    "2015-12-27": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2015-12-28": [
+      "Somnius",
+      "Wally"
+    ],
+    "2015-12-29": [
+      "Somnius",
+      "Wally"
+    ],
+    "2015-12-30": [
+      "dx",
+      "maxdeviant",
+      "Wally",
+      "Xamayon"
+    ],
+    "2015-12-31": [
+      "--",
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-1-1": [
+      "cblgh",
+      "Wally",
+      "reblink"
+    ],
+    "2016-1-2": [
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-1-3": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-4": [
+      "cblgh",
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-1-5": [
+      "Somnius",
+      "+cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-1-6": [
+      "+cblgh",
+      "Wally"
+    ],
+    "2016-1-7": [
+      "cblgh",
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-1-8": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2016-1-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-11": [
+      "cblgh"
+    ],
+    "2016-1-12": [
+      "--",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-1-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-15": [
+      "nijotz",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-16": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-1-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-18": [
+      "Somnius",
+      "Wally"
+    ],
+    "2016-1-19": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-20": [
+      "Somnius",
+      "Hamcha",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-21": [
+      "nijotz",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-22": [
+      "cblgh"
+    ],
+    "2016-1-23": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-24": [
+      "Hamcha",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-25": [
+      "maxdeviant",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2016-1-26": [
+      "Hamcha",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-27": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-28": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-1-29": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-1-30": [
+      "Wally"
+    ],
+    "2016-1-31": [
+      "cblgh"
+    ],
+    "2016-2-1": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-2": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-4": [
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-2-5": [
+      "maxdeviant",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2016-2-6": [
+      "Somnius",
+      "Hamcha",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-9": [
+      "cblgh",
+      "dx",
+      "Wally"
+    ],
+    "2016-2-10": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-11": [
+      "Somnius",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-12": [
+      "cblgh"
+    ],
+    "2016-2-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-14": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-15": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-16": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-17": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-19": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-21": [
+      "cblgh"
+    ],
+    "2016-2-22": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-23": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-24": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-25": [
+      "Wally"
+    ],
+    "2016-2-26": [
+      "Wally",
+      "faun",
+      "Xamayon",
+      "cblgh",
+      "dx"
+    ],
+    "2016-2-27": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-2-28": [
+      "dx",
+      "cblgh",
+      "Wally",
+      "faun"
+    ],
+    "2016-2-29": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-1": [
+      "cblgh",
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-3-2": [
+      "Baltic",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-4": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-5": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-6": [
+      "cblgh",
+      "Wally",
+      "faun"
+    ],
+    "2016-3-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-9": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-3-13": [
+      "cblgh",
+      "dx"
+    ],
+    "2016-3-14": [
+      "nijotzz",
+      "cblgh",
+      "dx"
+    ],
+    "2016-3-15": [
+      "cblgh",
+      "dx"
+    ],
+    "2016-3-16": [
+      "nijotz",
+      "cblgh",
+      "dx"
+    ],
+    "2016-3-17": [
+      "cblgh",
+      "dx"
+    ],
+    "2016-3-18": [
+      "cblgh",
+      "dx",
+      "Xamayon"
     ],
     "2016-3-20": [
       "cblgh",
@@ -1082,156 +828,893 @@
       "cblgh",
       "dx"
     ],
-    "2016-7-29": [
-      "cblgh"
-    ],
-    "2015-12-19": [
-      "Wally",
-      "cblgh",
-      "faun"
-    ],
-    "2015-12-18": [
-      "Wally"
-    ],
-    "2015-12-13": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2015-12-12": [
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2016-7-22": [
-      "Wally",
-      "Somnius",
-      "faun",
-      "cblgh",
-      "nijotz"
-    ],
-    "2015-11-15": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "dx",
-      "jmbto"
-    ],
-    "2015-11-12": [
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2015-11-13": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2015-11-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-11-11": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "dx",
-      "jmbto"
-    ],
-    "2016-6-30": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-11-18": [
-      "Wally",
-      "Somnius",
-      "lykkin",
+    "2016-3-24": [
       "cblgh",
       "dx"
     ],
-    "2015-11-19": [
-      "Wally",
-      "lykkin",
-      "cblgh"
+    "2016-3-25": [
+      "makoFaun"
     ],
-    "2015-11-14": [
-      "jnerula",
-      "lykkin",
-      "cblgh",
-      "dx"
-    ],
-    "2015-11-17": [
-      "Wally",
-      "Somnius",
-      "lykkin",
-      "cblgh"
-    ],
-    "2015-11-16": [
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2015-12-14": [
-      "Wally",
-      "lykkin",
+    "2016-3-26": [
+      "maxdeviant",
+      "dx",
       "Xamayon"
     ],
-    "2015-12-15": [
-      "Wally",
-      "Somnius",
-      "lykkin",
-      "cblgh",
-      "nijotz"
+    "2016-3-27": [
+      "dx",
+      "Wally"
     ],
-    "2015-12-16": [
-      "cblgh",
+    "2016-3-28": [
+      "dx"
+    ],
+    "2016-3-29": [
+      "Wally"
+    ],
+    "2016-3-30": [
+      "dx",
+      "Wally"
+    ],
+    "2016-3-31": [
       "nijotz",
-      "lykkin",
-      "faun",
       "Wally",
-      "maxdeviant"
+      "dx"
     ],
-    "2015-12-17": [
-      "Wally",
-      "Somnius",
-      "lykkin",
-      "cblgh"
+    "2016-4-1": [
+      "Xamayon",
+      "Wally"
     ],
-    "2015-12-10": [
-      "Wally",
-      "Somnius",
-      "lykkin",
-      "jmbto"
+    "2016-4-2": [
+      "dx",
+      "Wally"
     ],
-    "2016-11-8": [
-      "Ninamori",
+    "2016-4-3": [
+      "Wally"
+    ],
+    "2016-4-4": [
       "cblgh",
-      "Somnius"
-    ],
-    "2016-11-9": [
       "Wally",
-      "cblgh"
+      "Xamayon"
     ],
-    "2016-12-1": [
+    "2016-4-5": [
       "cblgh",
+      "Wally",
+      "Hamcha-"
+    ],
+    "2016-4-6": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-7": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-4-8": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-12": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Adolph"
+    ],
+    "2016-4-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-14": [
+      "nijotzz",
+      "Ninamori"
+    ],
+    "2016-4-15": [
+      "Somnius",
+      "cblgh",
+      "Wally",
       "nijotz"
     ],
-    "2016-12-6": [
-      "Wally",
-      "cblgh"
+    "2016-4-16": [
+      "nijotz",
+      "cblgh",
+      "Wally"
     ],
-    "2016-12-5": [
-      "Wally",
-      "cblgh"
+    "2016-4-17": [
+      "nijotz",
+      "cblgh",
+      "Wally"
     ],
-    "2016-12-4": [
-      "cblgh"
+    "2016-4-18": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-19": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-21": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-22": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-25": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-26": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-27": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-4-28": [
+      "dx",
+      "Wally",
+      "nijotz"
+    ],
+    "2016-4-29": [
+      "cblgh",
+      "Wally"
     ],
     "2016-4-30": [
       "Zteiner",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-1": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-2": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-3": [
+      "nijotz",
+      "cblgh",
       "Wally",
+      "faun"
+    ],
+    "2016-5-4": [
+      "Wally"
+    ],
+    "2016-5-5": [
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-5-6": [
+      "--",
       "cblgh"
+    ],
+    "2016-5-7": [
+      "cblgh"
+    ],
+    "2016-5-8": [
+      "cblgh"
+    ],
+    "2016-5-9": [
+      "dx",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-10": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2016-5-11": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-5-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-15": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-16": [
+      "cblgh"
+    ],
+    "2016-5-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-18": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-19": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2016-5-20": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-5-21": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-23": [
+      "Wally"
+    ],
+    "2016-5-24": [
+      "Somnius",
+      "--",
+      "cblgh"
+    ],
+    "2016-5-25": [
+      "cblgh",
+      "Wally",
+      "faun"
+    ],
+    "2016-5-26": [
+      "cblgh",
+      "faun"
+    ],
+    "2016-5-27": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-5-28": [
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-5-29": [
+      "cblgh"
+    ],
+    "2016-5-30": [
+      "cblgh",
+      "faun"
+    ],
+    "2016-5-31": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-1": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-2": [
+      "cblgh",
+      "Xamayon"
+    ],
+    "2016-6-3": [
+      "cblgh"
+    ],
+    "2016-6-4": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-6-5": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-6": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-9": [
+      "Somnius",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-11": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-12": [
+      "cblgh"
+    ],
+    "2016-6-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-14": [
+      "Somnius",
+      "Wally"
+    ],
+    "2016-6-15": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-16": [
+      "--",
+      "cblgh",
+      "Xamayon",
+      "Wally"
+    ],
+    "2016-6-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-19": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-6-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-21": [
+      "Wally"
+    ],
+    "2016-6-22": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-6-23": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "Preston_"
+    ],
+    "2016-6-24": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-25": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2016-6-27": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-28": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-29": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-6-30": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-1": [
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-7-2": [
+      "maxdeviant",
+      "Wally"
+    ],
+    "2016-7-4": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-5": [
+      "--"
+    ],
+    "2016-7-6": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-9": [
+      "Wally"
+    ],
+    "2016-7-10": [
+      "cblgh"
+    ],
+    "2016-7-11": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-12": [
+      "nijotz",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-14": [
+      "Somnius",
+      "Wally"
+    ],
+    "2016-7-15": [
+      "cblgh",
+      "dman"
+    ],
+    "2016-7-16": [
+      "cblgh"
+    ],
+    "2016-7-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-19": [
+      "Wally"
+    ],
+    "2016-7-20": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-21": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-22": [
+      "nijotz",
+      "Wally",
+      "faun",
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-7-23": [
+      "Wally"
+    ],
+    "2016-7-24": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-25": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-27": [
+      "Somnius",
+      "Hamcha",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-29": [
+      "cblgh"
+    ],
+    "2016-7-30": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-7-31": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-1": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-3": [
+      "--"
+    ],
+    "2016-8-4": [
+      "Somnius"
+    ],
+    "2016-8-5": [
+      "cblgh"
+    ],
+    "2016-8-6": [
+      "cblgh"
+    ],
+    "2016-8-7": [
+      "cblgh"
+    ],
+    "2016-8-8": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-9": [
+      "cblgh"
+    ],
+    "2016-8-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-12": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "Xamayon"
+    ],
+    "2016-8-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-15": [
+      "Wally",
+      "faun",
+      "Somnius",
+      "Xamayon",
+      "cblgh"
+    ],
+    "2016-8-16": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-18": [
+      "cblgh"
+    ],
+    "2016-8-21": [
+      "cblgh",
+      "Xamayon"
+    ],
+    "2016-8-22": [
+      "--",
+      "cblgh"
+    ],
+    "2016-8-23": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-8-24": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-25": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-26": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-27": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-29": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-30": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-8-31": [
+      "Wally"
+    ],
+    "2016-9-1": [
+      "cblgh"
+    ],
+    "2016-9-2": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-4": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-5": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-6": [
+      "cblgh"
+    ],
+    "2016-9-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-10": [
+      "cblgh"
+    ],
+    "2016-9-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-14": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-15": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-16": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-17": [
+      "cblgh"
+    ],
+    "2016-9-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-19": [
+      "Somnius",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-21": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-22": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-23": [
+      "Wally"
+    ],
+    "2016-9-24": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-25": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-26": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-27": [
+      "Somnius",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-28": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-9-29": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2016-9-30": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2016-10-1": [
+      "maxdeviant",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-2": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-4": [
+      "--",
+      "cblgh",
+      "Wally",
+      "faun"
+    ],
+    "2016-10-5": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-6": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-7": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2016-10-8": [
+      "cblgh",
+      "Wally",
+      "Xyz"
+    ],
+    "2016-10-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-13": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "Preston__"
+    ],
+    "2016-10-14": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-15": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-16": [
+      "cblgh",
+      "Wally",
+      "Preston_"
+    ],
+    "2016-10-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-19": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-21": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-22": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-23": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-24": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-25": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-10-26": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-27": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-28": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-29": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-30": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-10-31": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-11-1": [
+      "cblgh",
+      "Wally"
     ],
     "2016-11-2": [
       "cblgh"
@@ -1245,737 +1728,3705 @@
     "2016-11-6": [
       "cblgh"
     ],
-    "2015-10-16": [
-      "Wally",
-      "jmbto",
-      "dx"
-    ],
-    "2015-10-17": [
-      "Wally",
+    "2016-11-8": [
+      "Somnius",
       "cblgh",
-      "nijotz",
-      "cman"
+      "Ninamori"
     ],
-    "2015-10-14": [
-      "Wally",
+    "2016-11-9": [
       "cblgh",
-      "dx"
+      "Wally"
     ],
-    "2016-6-1": [
-      "Wally",
+    "2016-11-10": [
+      "cblgh"
+    ],
+    "2016-11-12": [
+      "cblgh"
+    ],
+    "2016-11-13": [
       "Somnius",
       "cblgh"
     ],
-    "2015-10-11": [
-      "Wally",
+    "2016-11-14": [
       "cblgh"
     ],
-    "2016-11-23": [
+    "2016-11-15": [
+      "cblgh"
+    ],
+    "2016-11-16": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-11-17": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-11-18": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2016-11-19": [
+      "cblgh"
+    ],
+    "2016-11-20": [
       "cblgh"
     ],
     "2016-11-21": [
       "Somnius",
       "cblgh"
     ],
-    "2016-11-20": [
+    "2016-11-23": [
       "cblgh"
     ],
-    "2016-11-27": [
+    "2016-11-25": [
       "cblgh"
     ],
     "2016-11-26": [
       "--",
       "cblgh"
     ],
-    "2016-11-25": [
+    "2016-11-27": [
+      "cblgh"
+    ],
+    "2016-11-28": [
       "cblgh"
     ],
     "2016-11-29": [
       "Somnius",
       "cblgh"
     ],
-    "2016-11-28": [
-      "cblgh"
-    ],
-    "2016-8-31": [
-      "Wally"
-    ],
-    "2016-8-30": [
-      "Wally",
+    "2016-11-30": [
       "Somnius",
       "cblgh"
     ],
-    "2016-1-30": [
-      "Wally"
-    ],
-    "2016-1-31": [
-      "cblgh"
-    ],
-    "2017-1-2": [
-      "Wally",
-      "cblgh"
-    ],
-    "2017-1-1": [
-      "--",
-      "Wally",
-      "cblgh"
-    ],
-    "2015-10-4": [
-      "Wally",
-      "cblgh",
-      "dx"
-    ],
-    "2016-7-12": [
-      "Wally",
-      "--",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-12-11": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-10": [
-      "cblgh"
-    ],
-    "2016-12-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-14": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-10": [
-      "cblgh"
-    ],
-    "2016-9-12": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-14": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-9-15": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-16": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-17": [
-      "cblgh"
-    ],
-    "2016-9-18": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-19": [
-      "--",
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-7-1": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2015-12-1": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "jmbto"
-    ],
-    "2016-8-29": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-8-26": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-8-27": [
-      "Wally",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-8-24": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-8-25": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-8-22": [
-      "--",
-      "cblgh"
-    ],
-    "2016-8-23": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-8-21": [
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-7-6": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-7-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-19": [
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-12-8": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-6-15": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-14": [
-      "Wally",
-      "Somnius"
-    ],
-    "2016-6-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-16": [
-      "Wally",
-      "--",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-6-11": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-6-10": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-6-12": [
-      "cblgh"
-    ],
-    "2016-8-7": [
-      "cblgh"
-    ],
-    "2016-8-6": [
-      "cblgh"
-    ],
-    "2016-11-1": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-21": [
-      "cblgh"
-    ],
-    "2016-2-22": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-2-23": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-2-24": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-2-25": [
-      "Wally"
-    ],
-    "2016-2-26": [
-      "Wally",
-      "faun",
-      "Xamayon",
-      "cblgh",
-      "dx"
-    ],
-    "2016-2-27": [
-      "Wally",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-2-28": [
-      "Wally",
-      "faun",
-      "cblgh",
-      "dx"
-    ],
-    "2016-2-29": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-30": [
-      "Wally",
-      "Xamayon",
-      "maxdeviant",
-      "dx"
-    ],
-    "2015-12-31": [
-      "Wally",
-      "--",
-      "Xamayon"
-    ],
-    "2016-5-18": [
-      "Wally",
-      "cblgh",
-      "maxdeviant"
-    ],
-    "2016-5-19": [
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-5-14": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-15": [
-      "Wally",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-5-16": [
-      "cblgh"
-    ],
-    "2016-5-17": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-10": [
-      "Wally",
-      "Somnius",
-      "cblgh",
-      "nijotz"
-    ],
-    "2016-5-11": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-5-12": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-5-13": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-1-2": [
-      "Wally",
-      "Xamayon"
-    ],
-    "2015-11-7": [
-      "Wally",
-      "lykkin"
-    ],
-    "2016-8-8": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-1-3": [
-      "Wally",
-      "--",
-      "cblgh"
-    ],
-    "2016-3-4": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-3-5": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-6": [
-      "Wally",
-      "cblgh",
-      "faun"
-    ],
-    "2016-3-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-1": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-3-2": [
-      "Wally",
-      "Baltic",
-      "cblgh"
-    ],
-    "2016-3-3": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-4-3": [
-      "Wally"
-    ],
-    "2016-4-2": [
-      "Wally",
-      "dx"
-    ],
-    "2016-4-1": [
-      "Wally",
-      "Xamayon"
-    ],
-    "2016-3-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-3-9": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-4-5": [
-      "Wally",
-      "Hamcha-",
-      "cblgh"
-    ],
-    "2016-4-4": [
-      "Wally",
-      "Xamayon",
-      "cblgh"
-    ],
-    "2016-12-22": [
-      "Wally"
-    ],
-    "2016-12-23": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-21": [
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-12-26": [
-      "cblgh"
-    ],
-    "2016-12-27": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-24": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-25": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-12-28": [
-      "Wally",
-      "--",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-12-29": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-29": [
-      "cblgh",
-      "Wally_"
-    ],
-    "2016-9-28": [
-      "Wally",
-      "--",
+    "2016-12-1": [
+      "nijotz",
       "cblgh"
     ],
     "2016-12-2": [
       "Somnius",
       "cblgh"
     ],
-    "2016-9-21": [
-      "Wally",
+    "2016-12-4": [
       "cblgh"
     ],
-    "2016-9-20": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-9-23": [
+    "2016-12-5": [
+      "cblgh",
       "Wally"
     ],
-    "2016-9-22": [
-      "Wally",
+    "2016-12-6": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-8": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-10": [
       "cblgh"
     ],
-    "2016-9-25": [
+    "2016-12-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-12": [
+      "Somnius",
+      "cblgh",
       "Wally",
+      "nijotz"
+    ],
+    "2016-12-13": [
       "cblgh"
     ],
-    "2016-9-24": [
-      "Wally",
+    "2016-12-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-19": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-21": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-22": [
+      "Wally"
+    ],
+    "2016-12-23": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-24": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-25": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-26": [
       "cblgh"
     ],
-    "2016-9-27": [
+    "2016-12-27": [
+      "cblgh",
+      "Wally"
+    ],
+    "2016-12-28": [
+      "Somnius",
       "--",
-      "Wally",
-      "Somnius",
-      "cblgh"
-    ],
-    "2016-9-26": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-2": [
-      "Wally",
-      "lykkin",
       "cblgh",
-      "dx"
-    ],
-    "2015-12-3": [
-      "jmbto",
-      "Preston",
-      "cblgh",
-      "lykkin",
-      "Hamcha",
-      "Wally",
-      "Xamayon",
-      "dx"
-    ],
-    "2016-7-2": [
-      "Wally",
-      "maxdeviant"
-    ],
-    "2015-11-30": [
-      "--",
-      "Somnius",
-      "cblgh",
-      "lykkin",
-      "Wally",
-      "Xamayon",
-      "maxdeviant"
-    ],
-    "2015-12-6": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "jmbto"
-    ],
-    "2015-12-7": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-12-4": [
-      "Wally",
-      "lykkin",
-      "cblgh",
-      "dx",
-      "jmbto"
-    ],
-    "2015-12-5": [
-      " *",
-      "Wally",
-      "lykkin",
-      "cblgh"
-    ],
-    "2016-7-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-7-9": [
       "Wally"
     ],
-    "2015-12-8": [
-      "jmbto",
+    "2016-12-29": [
       "cblgh",
-      "lykkin",
-      "dx",
-      "Wally",
-      "Xamayon",
-      "maxdeviant"
+      "Wally"
     ],
-    "2015-12-9": [
-      "jmbto",
+    "2016-12-30": [
       "Somnius",
-      "cblgh",
-      "rtrvrtg",
-      "lykkin",
-      "dx",
-      "Wally"
-    ],
-    "2015-11-9": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-11-8": [
-      "Wally",
-      "cblgh"
-    ],
-    "2016-8-5": [
-      "cblgh"
-    ],
-    "2016-8-4": [
-      "Somnius"
-    ],
-    "2016-8-3": [
-      "--"
-    ],
-    "2016-8-1": [
-      "Wally",
-      "cblgh"
-    ],
-    "2015-11-1": [
-      "Wally"
-    ],
-    "2015-11-3": [
-      "cblgh",
-      "faun",
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "dx",
-      "Wally",
-      "maxdeviant"
-    ],
-    "2015-11-2": [
-      "Wally",
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "cblgh",
       "nijotz"
     ],
-    "2015-11-5": [
+    "2016-12-31": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-1": [
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-2": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-3": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-4": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-5": [
+      "Arlefreak",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-6": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-8": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-11": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-13": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-14": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-15": [
+      "dx",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-16": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-17": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-19": [
+      " *"
+    ],
+    "2017-1-20": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-21": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-22": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-1-23": [
+      "Somnius",
+      "Wally"
+    ],
+    "2017-1-24": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-25": [
+      "cblgh"
+    ],
+    "2017-1-26": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-1-28": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2017-1-29": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-1-30": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-1-31": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-1": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-2": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-4": [
+      "Somnius",
+      "--",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-5": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-6": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-7": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-8": [
+      "Somnius",
+      "cblgh",
+      "dx",
+      "vaporstack"
+    ],
+    "2017-2-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-10": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-15": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-16": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-17": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-18": [
+      "cblgh"
+    ],
+    "2017-2-19": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-21": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-22": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-23": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-24": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-25": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-2-26": [
+      "cblgh"
+    ],
+    "2017-2-27": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-2-28": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-1": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-2": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-3": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-3-4": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-5": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-6": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "Xyz"
+    ],
+    "2017-3-7": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-8": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-10": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2017-3-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-13": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-14": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-15": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-16": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-17": [
+      "Wally",
+      "Somnius",
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2017-3-18": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-19": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-20": [
+      "nijotz",
+      "Wally",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-3-21": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2017-3-22": [
+      "cblgh",
+      "Wally",
+      "Xyz"
+    ],
+    "2017-3-23": [
+      "Somnius",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-24": [
+      "Wally"
+    ],
+    "2017-3-26": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-27": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Xyz"
+    ],
+    "2017-3-28": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2017-3-29": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-3-30": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-3-31": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-4-2": [
+      "cblgh",
+      "Xyz"
+    ],
+    "2017-4-3": [
+      "nijotz",
+      "cblgh",
+      "Somnius"
+    ],
+    "2017-4-4": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-5": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-4-6": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-4-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-4-8": [
+      "cblgh"
+    ],
+    "2017-4-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-10": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-11": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2017-4-12": [
+      "nijotz",
+      "cblgh",
+      "Xyz"
+    ],
+    "2017-4-13": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-14": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-15": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-16": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-4-17": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-18": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-4-19": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2017-4-20": [
+      "cblgh"
+    ],
+    "2017-4-21": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-22": [
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-23": [
+      "Somnius",
+      "cblgh",
+      "Wally",
+      "nijotz"
+    ],
+    "2017-4-24": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-25": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Somnius"
+    ],
+    "2017-4-26": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-27": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Hamcha-"
+    ],
+    "2017-4-28": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-29": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-4-30": [
+      "nijotz",
+      "Wally"
+    ],
+    "2017-5-1": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2017-5-2": [
+      "nijotz",
+      "--",
+      "Wally_"
+    ],
+    "2017-5-3": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-5-4": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-5-5": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-7": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-8": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "Ninamori",
+      "cblgh"
+    ],
+    "2017-5-9": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "Ninamori",
+      "cblgh"
+    ],
+    "2017-5-10": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-5-11": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-5-12": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-5-13": [
+      "cblgh"
+    ],
+    "2017-5-14": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-15": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "Xamayon",
+      "cblgh"
+    ],
+    "2017-5-16": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-5-17": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2017-5-18": [
+      "nijotz",
+      "cblgh",
+      "ESWAT"
+    ],
+    "2017-5-19": [
+      "cblgh"
+    ],
+    "2017-5-20": [
+      "Somnius",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2017-5-21": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "Xamayon",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-5-22": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-5-23": [
+      "nijotz",
+      "cblgh",
+      "ESWAT"
+    ],
+    "2017-5-24": [
+      "ESWAT",
+      "nijotz",
+      "Wally_",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-5-25": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-5-26": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-27": [
+      "cblgh",
+      "Xamayon",
+      "ESWAT"
+    ],
+    "2017-5-28": [
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-5-29": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-30": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-5-31": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-1": [
+      "Somnius",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-2": [
+      "Somnius",
+      "cblgh",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-6-3": [
+      "ESWAT",
+      "Wally_",
+      "Somnius",
+      "Ninamori",
+      "cblgh"
+    ],
+    "2017-6-4": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-6-5": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-6": [
+      "Somnius",
+      "cblgh",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-6-7": [
+      "ESWAT",
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh"
+    ],
+    "2017-6-8": [
+      "nijotz",
+      "cblgh",
+      "ESWAT"
+    ],
+    "2017-6-9": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-6-10": [
+      "Somnius",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-11": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-6-12": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-6-13": [
+      "nijotz",
+      "cblgh",
+      "ESWAT"
+    ],
+    "2017-6-14": [
+      "nijotz",
+      "cblgh",
+      "ESWAT"
+    ],
+    "2017-6-15": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-16": [
+      "Wally_",
+      "Xyz"
+    ],
+    "2017-6-17": [
+      "Wally_"
+    ],
+    "2017-6-18": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-6-19": [
+      "Somnius",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-6-20": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-21": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-22": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-23": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-24": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-25": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-26": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-27": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-6-29": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-6-30": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-7-1": [
+      "nijotz",
+      "cblgh",
+      "mnsn"
+    ],
+    "2017-7-2": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-7-3": [
+      "Somnius",
+      "cblgh"
+    ],
+    "2017-7-4": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "vaporstack"
+    ],
+    "2017-7-5": [
+      "nijotz",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-7-8": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-9": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-10": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-11": [
+      "nijotz",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-12": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-13": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-14": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-16": [
+      "Somnius",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-17": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-18": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-19": [
+      "nijotz",
+      "cblgh",
+      "Somnius"
+    ],
+    "2017-7-20": [
+      "nijotz",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-21": [
+      "Somnius",
+      "cblgh",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-7-22": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-23": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-24": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-25": [
+      "ESWAT",
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh"
+    ],
+    "2017-7-26": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-7-27": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-29": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-7-30": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-7-31": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-1": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-2": [
+      "Somnius",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-3": [
+      "Somnius",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-4": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-8-5": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-8-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-7": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-8-8": [
+      "gpsychosis",
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-8-9": [
+      "Somnius",
+      "cblgh_"
+    ],
+    "2017-8-10": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-11": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-8-13": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-14": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-8-15": [
+      "cblgh"
+    ],
+    "2017-8-16": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-8-17": [
+      "Somnius",
+      "cblgh",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-8-18": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-19": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-8-20": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-21": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-8-23": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-24": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-8-25": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-26": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-8-27": [
+      "cblgh"
+    ],
+    "2017-8-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-29": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-30": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-8-31": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-1": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "reblink"
+    ],
+    "2017-9-2": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-3": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-9-4": [
+      "cblgh"
+    ],
+    "2017-9-5": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-9-8": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-9": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-11": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-12": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-13": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-14": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-9-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-18": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-19": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-20": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-21": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-9-22": [
+      "nijotz",
+      "Wally_",
+      "mnsn",
+      "Somnius",
+      "cblgh",
+      "dx"
+    ],
+    "2017-9-23": [
+      "cblgh"
+    ],
+    "2017-9-25": [
+      "nijotz",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-9-26": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-27": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-9-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-29": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-9-30": [
+      "Wally_",
+      "faun"
+    ],
+    "2017-10-1": [
+      "Wally_"
+    ],
+    "2017-10-2": [
+      "nijotz",
+      "--",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-3": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-10-4": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-10-5": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "mnsn"
+    ],
+    "2017-10-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-7": [
+      "dx",
+      "Wally_"
+    ],
+    "2017-10-8": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-9": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-10-10": [
+      "nijotz",
+      "cblgh",
+      "Somnius",
+      "Wally_"
+    ],
+    "2017-10-11": [
+      "cblgh"
+    ],
+    "2017-10-12": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-13": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-14": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-15": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-10-16": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-17": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-10-18": [
+      "cblgh"
+    ],
+    "2017-10-19": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-20": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-10-21": [
+      "nijotz",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2017-10-22": [
+      "nijotz",
+      "Somnius",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2017-10-23": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-24": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-26": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2017-10-27": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-29": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-30": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-10-31": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-11-1": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-11-2": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-3": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-4": [
+      "nijotz"
+    ],
+    "2017-11-5": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-6": [
+      "nijotz",
+      "Wally_",
+      "Somnius",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2017-11-7": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-8": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-11-9": [
+      "cblgh"
+    ],
+    "2017-11-10": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-11": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-11-12": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-11-13": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-11-15": [
+      "Hamcha",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-16": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-17": [
+      "Somnius",
+      "cblgh",
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-11-18": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-19": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-20": [
+      "nijotz",
+      "cblgh",
+      "Xamayon",
+      "Wally_"
+    ],
+    "2017-11-21": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-22": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-23": [
+      "cblgh",
+      "Xamayon",
+      "Wally_"
+    ],
+    "2017-11-27": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-11-29": [
+      "cblgh"
+    ],
+    "2017-11-30": [
+      "nijotz",
+      "cblgh",
+      "Xamayon",
+      "Wally_"
+    ],
+    "2017-12-4": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-12-5": [
+      "cblgh",
+      "dx",
+      "Wally_"
+    ],
+    "2017-12-6": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2017-12-8": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-9": [
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2017-12-10": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-11": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-12-12": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-12-13": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-14": [
+      "Wally_"
+    ],
+    "2017-12-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-16": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-12-18": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-19": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-21": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-22": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "faun"
+    ],
+    "2017-12-24": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-25": [
+      "cblgh",
+      "Wally_",
+      "faun"
+    ],
+    "2017-12-26": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2017-12-27": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-29": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-30": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2017-12-31": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "dman"
+    ],
+    "2018-1-1": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "Xyz"
+    ],
+    "2018-1-2": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-3": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-4": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-1-5": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-7": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporsta1k"
+    ],
+    "2018-1-8": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "dman"
+    ],
+    "2018-1-9": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-10": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-11": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-12": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-13": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-14": [
+      "nijotz",
+      "Wally_",
+      "vaporsta1k"
+    ],
+    "2018-1-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-16": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-1-18": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-1-19": [
+      "cblgh",
+      "Xamayon",
+      "Wally_"
+    ],
+    "2018-1-20": [
+      "cblgh"
+    ],
+    "2018-1-21": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-22": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-23": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-24": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-1-25": [
+      "nijotz",
+      "Hamcha",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-26": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-27": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-1-28": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-29": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-30": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-1-31": [
+      "nijotz",
+      "Hamcha",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-1": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-2": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-3": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-4": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-5": [
+      "nijotz",
+      "cblgh",
+      "mnsn",
+      "Wally_"
+    ],
+    "2018-2-6": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-7": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-2-9": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-2-10": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-11": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-2-12": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-14": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-16": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-17": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-2-18": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-19": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-2-20": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "dman"
+    ],
+    "2018-2-21": [
+      "cblgh"
+    ],
+    "2018-2-22": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-23": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-26": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-2-27": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-2-28": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-3-1": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-3-2": [
+      "nijotz",
+      "Wally_",
+      "Xamayon",
+      "Hamcha",
+      "cblgh"
+    ],
+    "2018-3-3": [
+      "Wally_"
+    ],
+    "2018-3-5": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-3-7": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-3-8": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-11": [
+      "nijotz",
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-3-12": [
+      "nijotz",
+      "Hamcha",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-13": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-14": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-15": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-16": [
+      "nijotz",
+      "cblgh",
+      "Xyz"
+    ],
+    "2018-3-17": [
+      "cblgh",
+      "Wally_",
+      "vaporstack"
+    ],
+    "2018-3-18": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-3-19": [
+      "dman",
+      "nijotz",
+      "Wally_",
+      "vhost-",
+      "cblgh"
+    ],
+    "2018-3-20": [
+      "--",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-21": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-22": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-23": [
+      "Wally_"
+    ],
+    "2018-3-24": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-25": [
+      "nijotz",
+      "Wally_"
+    ],
+    "2018-3-26": [
+      "nijotz",
+      "cblgh",
+      "Wally_"
+    ],
+    "2018-3-27": [
+      "--",
+      "Wally"
+    ],
+    "2018-3-28": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-3-29": [
+      "nijotz"
+    ],
+    "2018-3-30": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-3-31": [
+      "cblgh"
+    ],
+    "2018-4-2": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-3": [
+      "nijotz",
       "Wally",
       "Xamayon",
-      "lykkin",
       "cblgh",
-      "maxdeviant"
+      "vaporstack"
     ],
-    "2015-11-4": [
-      "Wally",
-      "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "2018-4-4": [
       "cblgh"
     ],
-    "2016-8-9": [
+    "2018-4-5": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-4-6": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-7": [
       "cblgh"
     ],
-    "2015-11-6": [
+    "2018-4-8": [
+      "Hamcha-",
       "Wally",
+      "cblgh"
+    ],
+    "2018-4-9": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-10": [
+      "Wally"
+    ],
+    "2018-4-11": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-12": [
+      "cblgh"
+    ],
+    "2018-4-14": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-4-16": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-4-17": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-18": [
+      "nijotz"
+    ],
+    "2018-4-19": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-4-20": [
+      "cblgh"
+    ],
+    "2018-4-21": [
+      "cblgh"
+    ],
+    "2018-4-22": [
+      "cblgh"
+    ],
+    "2018-4-23": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-4-26": [
+      "nijotz",
+      "Wally",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2018-4-27": [
+      "nijotz"
+    ],
+    "2018-4-28": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-4-29": [
+      "nijotz",
+      "cblgh",
+      "Xyz_39808"
+    ],
+    "2018-4-30": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-5-1": [
+      "nijotz",
+      "Wally",
+      "Xyz_39808",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-5-2": [
       "--",
       "cblgh"
     ],
-    "2015-10-29": [
-      "AAAAAAAAAAAAA",
-      "<--"
-    ],
-    "2015-10-28": [
+    "2018-5-3": [
+      "nijotz",
+      "cblgh",
       "Wally",
-      "<--"
+      "vaporstack"
     ],
-    "2015-10-27": [
+    "2018-5-4": [
+      "nijotz",
+      "Xamayon",
+      "Wally"
+    ],
+    "2018-5-5": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-5-6": [
+      "nijotz",
       "Wally",
-      "cman",
+      "Xyz_39809"
+    ],
+    "2018-5-7": [
+      "nijotz",
       "cblgh"
     ],
-    "2015-10-26": [
-      "Wally",
-      "cblgh",
+    "2018-5-8": [
       "nijotz",
-      "cman"
-    ]
-  },
-  "days_since_first_celebration": 458,
-  "who_had_most_celebrations": [
-    "cblgh",
-    387
-  ],
-  "when_had_most_celebrations": [
-    "2015-12-3",
-    [
-      "jmbto",
-      "Preston",
+      "Wally",
+      "Xamayon"
+    ],
+    "2018-5-9": [
+      "nijotz",
       "cblgh",
-      "lykkin",
-      "Hamcha",
+      "Wally"
+    ],
+    "2018-5-10": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "Xyz"
+    ],
+    "2018-5-11": [
+      "Wally",
+      "Xyz"
+    ],
+    "2018-5-12": [
+      "nijotz",
+      "Wally"
+    ],
+    "2018-5-14": [
+      "nijotz"
+    ],
+    "2018-5-15": [
+      "Wally",
+      "Tigers",
+      "Xamayon"
+    ],
+    "2018-5-17": [
+      "vaporstack"
+    ],
+    "2018-5-18": [
+      "Wally",
+      "Tigers",
+      "vaporstack"
+    ],
+    "2018-5-20": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-5-21": [
+      "cblgh",
+      "Wally",
+      "dman"
+    ],
+    "2018-5-23": [
+      "nijotz",
       "Wally",
       "Xamayon",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-5-29": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-5-30": [
+      "nijotz",
+      "Wally"
+    ],
+    "2018-5-31": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-6-1": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-6-2": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-6-3": [
+      "cblgh"
+    ],
+    "2018-6-4": [
+      "Wally",
+      "Ninamori"
+    ],
+    "2018-6-5": [
+      "nijotz"
+    ],
+    "2018-6-6": [
+      "vaporstack"
+    ],
+    "2018-6-7": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-6-11": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-6-12": [
+      "nijotz",
+      "Wally",
+      "Xyz_39809"
+    ],
+    "2018-6-14": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-6-15": [
+      "gpsych",
+      "uUni",
+      "nijotz"
+    ],
+    "2018-6-16": [
+      "cblgh"
+    ],
+    "2018-6-18": [
+      "vaporstack"
+    ],
+    "2018-6-19": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-6-20": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-6-21": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-6-22": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-6-23": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-6-24": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-6-25": [
+      "nijotz",
+      "Wally",
+      "dman"
+    ],
+    "2018-6-26": [
+      "cblgh"
+    ],
+    "2018-6-27": [
+      "cblgh",
+      "Xyz_39808"
+    ],
+    "2018-6-28": [
+      "cblgh"
+    ],
+    "2018-6-29": [
+      "cblgh"
+    ],
+    "2018-6-30": [
+      "cblgh"
+    ],
+    "2018-7-2": [
+      "nijotz"
+    ],
+    "2018-7-4": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-7-5": [
+      "nijotz",
+      "Wally"
+    ],
+    "2018-7-7": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-7-8": [
+      "nijotz"
+    ],
+    "2018-7-9": [
+      "cblgh",
+      "Xamayon"
+    ],
+    "2018-7-10": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-7-11": [
+      "cblgh"
+    ],
+    "2018-7-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-7-15": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-7-18": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-7-19": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-7-20": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-7-22": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-7-24": [
+      "vaporstack"
+    ],
+    "2018-7-25": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-7-26": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-7-28": [
+      "vaporstack"
+    ],
+    "2018-7-29": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-7-30": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-7-31": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-8-1": [
+      "nijotz",
+      "Wally"
+    ],
+    "2018-8-2": [
+      "nijotz",
+      "Wally"
+    ],
+    "2018-8-3": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-8-4": [
+      "cblgh"
+    ],
+    "2018-8-6": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-8-7": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-8-8": [
+      "vaporstack"
+    ],
+    "2018-8-9": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-8-10": [
+      "cblgh"
+    ],
+    "2018-8-11": [
+      "cblgh"
+    ],
+    "2018-8-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-8-14": [
+      "--",
+      "vaporstack"
+    ],
+    "2018-8-15": [
+      "cblgh"
+    ],
+    "2018-8-16": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-8-17": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-8-19": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-8-20": [
+      "cblgh",
+      "Wally"
+    ],
+    "2018-8-22": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-8-23": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-8-25": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-8-26": [
+      "cblgh"
+    ],
+    "2018-8-27": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-8-30": [
+      "vaporstack"
+    ],
+    "2018-8-31": [
+      "cblgh"
+    ],
+    "2018-9-4": [
+      "vaporstack"
+    ],
+    "2018-9-6": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-9-7": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-9-9": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-9-14": [
+      "vaporstack"
+    ],
+    "2018-9-15": [
+      "vaporstack"
+    ],
+    "2018-9-16": [
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2018-9-17": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-9-19": [
+      "vaporstack"
+    ],
+    "2018-9-21": [
+      "vaporstack"
+    ],
+    "2018-9-24": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2018-9-25": [
+      "hugh-adolph",
+      "cblgh",
+      "Wally"
+    ],
+    "2018-9-26": [
+      "vaporstack"
+    ],
+    "2018-9-27": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-9-28": [
+      "cblgh",
+      "hugh-adolph"
+    ],
+    "2018-9-30": [
+      "vaporstack"
+    ],
+    "2018-10-1": [
+      "gpsychosis",
+      "cblgh",
+      "nicolaus"
+    ],
+    "2018-10-2": [
+      "cblgh"
+    ],
+    "2018-10-3": [
+      "vaporstack"
+    ],
+    "2018-10-5": [
+      "vaporstack"
+    ],
+    "2018-10-7": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-10-8": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-10-9": [
+      "nijotz"
+    ],
+    "2018-10-10": [
+      "cblgh"
+    ],
+    "2018-10-11": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-10-12": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-10-13": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-10-14": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-10-16": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-10-17": [
+      "nijotz",
+      "--",
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2018-10-18": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-10-24": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-10-27": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-10-30": [
+      "vaporstack"
+    ],
+    "2018-11-2": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-11-4": [
+      "nijotz"
+    ],
+    "2018-11-11": [
+      "nijotz"
+    ],
+    "2018-11-12": [
+      "nijotz"
+    ],
+    "2018-11-13": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-11-15": [
+      "nijotz"
+    ],
+    "2018-11-16": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-11-17": [
+      "nijotz",
+      "reblink",
+      "Xyz"
+    ],
+    "2018-11-18": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-11-20": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-11-22": [
+      "nijotz"
+    ],
+    "2018-11-23": [
+      "nijotz",
+      "cblgh",
+      "Xyz"
+    ],
+    "2018-11-24": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-11-27": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2018-11-28": [
+      "cblgh"
+    ],
+    "2018-11-29": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-12-1": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-12-3": [
+      "nijotz",
+      "Xyz"
+    ],
+    "2018-12-4": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-12-5": [
+      "nijotz"
+    ],
+    "2018-12-6": [
+      "cblgh"
+    ],
+    "2018-12-11": [
+      "gpsychosis",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-12-13": [
+      "nijotz"
+    ],
+    "2018-12-15": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-12-16": [
+      "nijotz"
+    ],
+    "2018-12-17": [
+      "nijotz",
+      "Xyz"
+    ],
+    "2018-12-18": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2018-12-20": [
+      "nijotz"
+    ],
+    "2018-12-22": [
+      "--"
+    ],
+    "2018-12-23": [
+      "nijotz"
+    ],
+    "2018-12-24": [
+      "nijotz"
+    ],
+    "2018-12-25": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2018-12-26": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-1-5": [
+      "cblgh"
+    ],
+    "2019-1-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-9": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-10": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-11": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-12": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-13": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-1-14": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-16": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-17": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-18": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-19": [
+      "nijotz"
+    ],
+    "2019-1-20": [
+      "nijotz",
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2019-1-21": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-22": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-24": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-25": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-1-26": [
+      "nijotz",
+      "--"
+    ],
+    "2019-1-27": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-1-28": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-29": [
+      "nijotz"
+    ],
+    "2019-1-30": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-1-31": [
+      "nijotz"
+    ],
+    "2019-2-1": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-3": [
+      "nijotz"
+    ],
+    "2019-2-4": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-5": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-6": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-7": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-8": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-9": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-12": [
+      "nijotz"
+    ],
+    "2019-2-13": [
+      "nijotz"
+    ],
+    "2019-2-15": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-18": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-2-20": [
+      "nijotz"
+    ],
+    "2019-2-22": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-2-26": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-3-4": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-3-11": [
+      "vaporstack"
+    ],
+    "2019-3-12": [
+      "nijotz",
+      "Wally",
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2019-3-13": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-14": [
+      "nijotz",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2019-3-15": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-3-16": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-3-18": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-3-19": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-20": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-21": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-3-22": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-23": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-3-25": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-3-26": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-27": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-3-28": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-3-29": [
+      "nijotz",
+      "cblgh",
+      "Wally"
+    ],
+    "2019-4-1": [
+      "nijotz",
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-4-3": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-4-4": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-4-5": [
+      "nijotz",
+      "cblgh",
+      "vaporstack",
+      "Xyz"
+    ],
+    "2019-4-6": [
+      "nijotz"
+    ],
+    "2019-4-8": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-4-9": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-4-10": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-4-13": [
+      "vaporstack"
+    ],
+    "2019-4-14": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-4-16": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-4-17": [
+      "nijotz",
+      "vaporstack"
+    ],
+    "2019-4-19": [
+      "nijotz",
+      "--"
+    ],
+    "2019-4-22": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-4-24": [
+      "vaporstack"
+    ],
+    "2019-4-29": [
+      "nijotz",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-5-2": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-5-3": [
+      "--"
+    ],
+    "2019-5-4": [
+      "vaporstack"
+    ],
+    "2019-5-5": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-5-7": [
+      "cblgh"
+    ],
+    "2019-5-8": [
+      "vaporstack"
+    ],
+    "2019-5-14": [
+      "--"
+    ],
+    "2019-5-15": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-5-18": [
+      "vaporstack"
+    ],
+    "2019-5-30": [
+      "vaporstack"
+    ],
+    "2019-5-31": [
+      "cblgh_"
+    ],
+    "2019-6-1": [
+      "Wally"
+    ],
+    "2019-6-2": [
+      "cblgh_"
+    ],
+    "2019-6-4": [
+      "Wally"
+    ],
+    "2019-6-13": [
+      "Wally"
+    ],
+    "2019-6-20": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-6-21": [
+      "nijotz",
+      "Wally"
+    ],
+    "2019-6-25": [
+      "nijotz",
+      "Wally"
+    ],
+    "2019-7-5": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-7-10": [
+      "gpsychosis",
+      "vaporstack"
+    ],
+    "2019-7-11": [
+      "cblgh",
+      "Wally"
+    ],
+    "2019-7-12": [
+      "cblgh",
+      "Wally"
+    ],
+    "2019-7-15": [
+      "cblgh",
+      "vaporstack"
+    ],
+    "2019-7-16": [
+      "Wally"
+    ],
+    "2019-7-19": [
+      "cblgh"
+    ],
+    "2019-7-22": [
+      "Wally"
+    ],
+    "2019-7-23": [
+      "Wally"
+    ],
+    "2019-7-25": [
+      "cblgh",
+      "Wally"
+    ],
+    "2019-7-26": [
+      "Wally"
+    ],
+    "2019-7-28": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-8-5": [
+      "nijotz",
+      "cblgh"
+    ],
+    "2019-8-6": [
+      "nijotz",
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-8-12": [
+      "--",
+      "vaporstack"
+    ],
+    "2019-8-13": [
+      "vaporstack"
+    ],
+    "2019-8-19": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-8-23": [
+      "cblgh",
+      "Wally"
+    ],
+    "2019-8-29": [
+      "--"
+    ],
+    "2019-8-31": [
+      "cblgh",
       "dx"
+    ],
+    "2019-9-3": [
+      "vaporstack"
+    ],
+    "2019-9-6": [
+      "cblgh"
+    ],
+    "2019-9-8": [
+      "vaporstack"
+    ],
+    "2019-9-9": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-9-10": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-9-22": [
+      "vaporstack"
+    ],
+    "2019-10-3": [
+      "vaporstack"
+    ],
+    "2019-10-4": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-10-6": [
+      "Wally"
+    ],
+    "2019-10-22": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-10-23": [
+      "cblgh",
+      "Wally",
+      "vaporstack"
+    ],
+    "2019-11-4": [
+      "cblgh"
+    ],
+    "2019-11-12": [
+      "Wally"
+    ],
+    "2019-11-13": [
+      "Wally",
+      "raph_ael"
+    ],
+    "2019-11-17": [
+      "Wally"
+    ],
+    "2019-11-21": [
+      "Wally"
+    ],
+    "2019-12-2": [
+      "Wally",
+      "raph_ael"
+    ],
+    "2019-12-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2019-12-5": [
+      "--",
+      "Wally"
+    ],
+    "2019-12-9": [
+      "cblgh"
+    ],
+    "2019-12-24": [
+      "cblgh"
+    ],
+    "2019-12-28": [
+      "nijotz"
+    ],
+    "2019-12-29": [
+      "Wally"
+    ],
+    "2019-12-30": [
+      "--"
+    ],
+    "2020-1-6": [
+      "raph_ael"
+    ],
+    "2020-1-15": [
+      "Wally_"
+    ],
+    "2020-1-23": [
+      "cblgh",
+      "Wally_"
+    ],
+    "2020-1-26": [
+      "--"
+    ],
+    "2020-1-27": [
+      "Wally"
+    ],
+    "2020-1-28": [
+      "vaporstack"
+    ],
+    "2020-2-6": [
+      "Wally",
+      "vaporstack"
+    ],
+    "2020-2-11": [
+      "cancel",
+      "Wally",
+      "vaporstack"
+    ],
+    "2020-2-13": [
+      "Wally"
+    ],
+    "2020-3-2": [
+      "nijotz",
+      "Wally"
+    ],
+    "2020-3-3": [
+      "cblgh",
+      "Wally"
+    ],
+    "2020-3-4": [
+      "cancel",
+      "Wally",
+      "vaporstack"
     ]
-  ],
-  "times_celebrated": 425,
+  },
+  "days_since_first_celebration": 1615,
+  "celebration_score": "1176/1615",
+  "celebrated_count": {
+    "cblgh": 930,
+    "Wally": 592,
+    "dx": 54,
+    "nijotz": 493,
+    "jmbto": 15,
+    "cman": 13,
+    "Xamayon": 58,
+    "Somnius": 192,
+    "<--": 2,
+    "AAAAAAAAAAAAA": 1,
+    "AAAAAAAAAAAAAAAAAAAAAAAAAAAA": 4,
+    "maxdeviant": 18,
+    "faun": 16,
+    "lykkin": 45,
+    "--": 51,
+    "jnerula": 1,
+    "Hamcha": 13,
+    "Preston": 1,
+    " *": 2,
+    "rtrvrtg": 1,
+    "cblgh_": 4,
+    "reblink": 3,
+    "+cblgh": 2,
+    "Baltic": 1,
+    "nijotzz": 2,
+    "makoFaun": 1,
+    "Hamcha-": 3,
+    "Adolph": 1,
+    "Ninamori": 6,
+    "Zteiner": 1,
+    "Preston_": 2,
+    "dman": 7,
+    "Wally_": 268,
+    "vaporstack": 194,
+    "Xyz": 23,
+    "Preston__": 1,
+    "Arlefreak": 1,
+    "ESWAT": 10,
+    "mnsn": 4,
+    "gpsychosis": 4,
+    "vaporsta1k": 2,
+    "vhost-": 1,
+    "Xyz_39808": 3,
+    "Xyz_39809": 2,
+    "Tigers": 5,
+    "gpsych": 1,
+    "uUni": 1,
+    "hugh-adolph": 2,
+    "nicolaus": 1,
+    "raph_ael": 3,
+    "cancel": 2
+  },
+  "screaming_count": {
+    "+christian": 1,
+    "SpanishInquisition": 1,
+    "Paul_Debrion": 1,
+    "nea": 6,
+    "the_neko^^": 3,
+    "offal": 1,
+    "gpsychosis": 2,
+    "theneko_^^": 4,
+    "+dx": 1,
+    "+Wally": 1,
+    "Wally": 483,
+    "nijotz": 12,
+    "reblink": 1,
+    "dx": 241,
+    "justanoodle": 3,
+    "cblgh": 113,
+    "justasausage": 4,
+    "Somnius": 27,
+    "Xamayon": 10,
+    "+cblgh": 6,
+    "+goldbuick__": 3,
+    "dman": 75,
+    "goldbuick__": 10,
+    "maxdeviant": 16,
+    "justastranger": 2,
+    "Fridge": 1,
+    "jmbto": 9,
+    "cman": 30,
+    "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA": 48,
+    "AAAAAAAAAAAAA": 7,
+    "+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA": 13,
+    "AAAAAAAAAAAAAAAAAAAAAAAAAAAA": 3,
+    "lykkin": 11,
+    "faun": 2,
+    "Hamcha": 9,
+    "VillaMoirai": 4,
+    "Xyz39808": 2,
+    "Hamcha-": 1,
+    "+dman": 5,
+    "+Xyz39808": 1,
+    "Xyz_39808": 15,
+    "Xyz": 25,
+    "vaporstack": 20,
+    "rtrvrtg": 1,
+    "Xyz_39809": 3,
+    "Wally_": 26,
+    "ESWAT": 1
+  },
   "first_celebrated": {
     "when": "2015-10-2",
     "who": "cblgh"
   },
-  "longest_streak": "???",
-  "celebrated_count": {
-    "Xyz": 1,
-    "+cblgh": 2,
-    "Xamayon": 43,
-    "--": 33,
-    "maxdeviant": 18,
-    "AAAAAAAAAAAAA": 1,
-    "Preston__": 1,
-    "reblink": 1,
-    "rtrvrtg": 1,
-    "nijotz": 45,
-    "Adolph": 1,
-    "<--": 2,
-    "dx": 48,
-    "faun": 13,
-    "cblgh": 387,
-    "Ninamori": 2,
-    "vaporstack": 1,
-    "Wally_": 2,
-    "nijotzz": 2,
-    "Zteiner": 1,
-    "Preston_": 2,
-    "jmbto": 15,
-    " *": 1,
-    "dman": 1,
-    "AAAAAAAAAAAAAAAAAAAAAAAAAAAA": 4,
-    "Wally": 362,
-    "lykkin": 45,
-    "Hamcha": 8,
-    "Baltic": 1,
-    "Hamcha-": 1,
-    "makoFaun": 1,
-    "cblgh_": 1,
-    "jnerula": 1,
-    "Preston": 1,
-    "Somnius": 84,
-    "cman": 13
+  "first_scream_celebrated": {
+    "when": "2013-8-29",
+    "who": "+christian"
   },
-  "celebration_score": "425/458"
+  "who_had_most_celebrations": [
+    "cblgh",
+    930
+  ],
+  "when_had_most_celebrations": [
+    "2015-12-3",
+    [
+      "Wally",
+      "lykkin",
+      "jmbto",
+      "Xamayon",
+      "Hamcha",
+      "cblgh",
+      "dx",
+      "Preston"
+    ]
+  ],
+  "who_had_most_screams": [
+    "Wally",
+    483
+  ],
+  "when_had_most_screams": [
+    "2015-11-19",
+    [
+      "Wally",
+      "lykkin",
+      "jmbto",
+      "faun",
+      "Somnius",
+      "Hamcha",
+      "dx"
+    ]
+  ],
+  "longest_streak": "???"
 }
